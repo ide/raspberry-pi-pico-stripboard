@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# KiCad
+fp-info-cache
+gerbers
+Raspberry Pi Pico Stripboard-backups
